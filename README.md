@@ -23,7 +23,7 @@ I'm a back-end developer!
 - 👯 I’m looking to collaborate on Python, Django, Rust
 - 💬 Ask me about Python, Django, Docker
 - 📫 How to reach me: Any social media I've shared here :D
-- ⚡ Fun fact: I like to switch to a compiled language that's why I've started learning Rust!
+- ⚡ Fun fact: I like to learn a compiled language that's why I've started learning Rust!
 
 Yes, My stats isn't very attractive right now. But I will put it here anyway to encourage myself to improve it :D
 
