@@ -25,4 +25,6 @@ I'm a back-end developer!
 - 📫 How to reach me: Any social media I've shared here :D
 - ⚡ Fun fact: I like to switch to a compiled language that's why I've started learning Rust!
 
+Yes, My stats isn't very attractive right now. But I will put it here anyway to encourage myself to improve it :D
+
 [![Niloofars's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloofarShahbaz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
