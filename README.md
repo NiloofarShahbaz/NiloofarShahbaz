@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **NiloofarShahbaz/NiloofarShahbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +12,7 @@ I'm a back-end developer with the background of python.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!-- [![Niloofars's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloofarShahbaz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 I'm a back-end developer!
 
@@ -28,3 +25,4 @@ I'm a back-end developer!
 Yes, My stats isn't very attractive right now. But I will put it here anyway to encourage myself to improve it :D
 
 [![Niloofars's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloofarShahbaz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
